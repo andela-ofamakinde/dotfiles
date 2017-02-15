@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 12,
+    "editor.tabSize": 4,
+    "editor.wrappingColumn": 150,
+    "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true
+  },
+   "editor.quickSuggestions": true,
+   "editor.trimAutoWhitespace": true
+}
